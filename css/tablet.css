@@ -7,3 +7,6 @@
 .plans-container--slider {
     justify-content: center;
 }
+.basic-plan {
+    margin-bottom: 0;
+}
